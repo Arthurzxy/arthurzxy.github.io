@@ -17,7 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now an associate professor of Institute of Functional Nano & Soft Materials (FUNSOM), Soochow University. Dr Xu received his PhD degree from Tsinghua University, majored in micro-nano electronics, and BS degree from Tianjin University.
+
+I mainly work in Stretchable and Flexible Smart Sensor Device and System
+
+I am now an assistant professor at Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School, Tsinghua University.
+
+I mainly work in Data Communication and Intelligence in Lightwave (DILIGHT). I use photonic and electronic techniques to solve problems in telecommunication, sensing, information technology and others.
+
+Prior to that, I was a Research Scientist in Optical Communications Laboratory at Centre of Optics, Photonics and Laser (COPL) in Université Laval, Quebec City, Canada, where I still hold adjunct professorship. I co-supervise a Ph.D student with Prof. Leslie Rusch, who is IEEE Fellow, Optica Fellow, and Canadian research chair.
+
+I obtained my Ph.D degree in optical communication from Department of Information Engieering, The Chinese University of Hong Kong. I studied under the supervision of Prof. Calvin Chan, an Optica Fellow.
+
+For a more complete introduction, check my CV.
+
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
